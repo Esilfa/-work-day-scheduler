@@ -2,10 +2,11 @@ body {
   font-family: 'Open Sans', sans-serif;
   font-size: 16px;
   line-height: 1;
+  background-color: aliceblue;
 }
 
 textarea {
-  background: transparent;
+  background: rgb(224, 232, 240);
   border: none;
   resize: none;
   color: #000000;
@@ -15,7 +16,7 @@ textarea {
 
 .jumbotron {
   text-align: center;
-  background-color: transparent;
+  background-color: rgb(224, 232, 240) ;
   color: black;
   border-radius: 0;
   border-bottom: 10px solid black;
@@ -61,7 +62,7 @@ textarea {
   border-left: 1px solid black;
   border-top-right-radius: 15px;
   border-bottom-right-radius: 15px;
-  background-color: #06aed5;
+  background-color: #dd1e9d;
   color: white;
 }
 
